@@ -8,7 +8,7 @@ I am currently working ⚒️🪛 on :
 
 <div align="center">
 
-<a href=""><img src="" align="center" width="498" height="305" /></a>
+<a href=""><img src="https://github.com/KiteretsuSaiSama/KiteretsuSaiSama/blob/main/time-machine-vintage.gif?raw=true" align="center" width="498" height="305" /></a>
 
 </div> 
 
